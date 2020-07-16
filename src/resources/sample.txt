@@ -1,4 +1,4 @@
-Once upon a midnight dreary, while I pondered, weak and weary,
+Once upon a midnight dreary, while I pondered, weak and weary (Madam Anna Omo - palindrome checking),
 Over many a quaint and curious volume of forgotten lore—
 While I nodded, nearly napping, suddenly there came a tapping,
 As of some one gently rapping, rapping at my chamber door—
@@ -25,3 +25,4 @@ But the fact is I was napping, and so gently you came rapping,
 And so faintly you came tapping, tapping at my chamber door,
 That I scarce was sure I heard you"—here I opened wide the door;—
 Darkness there and nothing more.
+
