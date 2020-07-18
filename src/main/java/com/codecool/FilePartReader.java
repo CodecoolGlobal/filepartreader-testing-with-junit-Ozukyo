@@ -51,19 +51,8 @@ public class FilePartReader {
             sb.append(textSplitted[i-1]);
             sb.append("\n");
         }
-        return sb.toString();
+        return sb.toString().trim();
     }
 
 
-    public String getFilePath() {
-        return filePath;
-    }
-
-    public Integer getFromLine() {
-        return fromLine;
-    }
-
-    public Integer getToLine() {
-        return toLine;
-    }
 }

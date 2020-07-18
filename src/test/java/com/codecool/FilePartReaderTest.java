@@ -2,14 +2,16 @@ package com.codecool;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+
 import java.io.IOException;
 
 
 class FilePartReaderTest {
+//    public static FilePartReader filePartReader;
 
 //    @BeforeAll
-//    static void setup() {
-//        FilePartReader filePartReader = new FilePartReader();
+//    public static void setup() {
+//        filePartReader = new FilePartReader();
 //    }
 
     @Test

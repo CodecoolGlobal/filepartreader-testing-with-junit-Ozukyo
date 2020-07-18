@@ -19,6 +19,7 @@ public class FileWordAnalyzer {
         List<String> list = Arrays.asList(arrayOfWords);
         Collections.sort(list);
 
+
         return list;
     }
 
